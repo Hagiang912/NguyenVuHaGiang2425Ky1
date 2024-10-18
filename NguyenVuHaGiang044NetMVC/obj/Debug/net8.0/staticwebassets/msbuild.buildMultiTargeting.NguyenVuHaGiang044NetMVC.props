@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NguyenVuHaGiang044NetMVC.props" />
+</Project>
