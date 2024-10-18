@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NguyenVuHaGiang044\\NguyenVuHaGiang044.NetMVC\\NguyenVuHaGiang044.NetMVC.csproj": {}
+    "D:\\NguyenVuHaGiang044\\NguyenVuHaGiang044\\NguyenVuHaGiang044.NetMVC.csproj": {}
   },
   "projects": {
-    "D:\\NguyenVuHaGiang044\\NguyenVuHaGiang044.NetMVC\\NguyenVuHaGiang044.NetMVC.csproj": {
+    "D:\\NguyenVuHaGiang044\\NguyenVuHaGiang044\\NguyenVuHaGiang044.NetMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NguyenVuHaGiang044\\NguyenVuHaGiang044.NetMVC\\NguyenVuHaGiang044.NetMVC.csproj",
+        "projectUniqueName": "D:\\NguyenVuHaGiang044\\NguyenVuHaGiang044\\NguyenVuHaGiang044.NetMVC.csproj",
         "projectName": "NguyenVuHaGiang044.NetMVC",
-        "projectPath": "D:\\NguyenVuHaGiang044\\NguyenVuHaGiang044.NetMVC\\NguyenVuHaGiang044.NetMVC.csproj",
+        "projectPath": "D:\\NguyenVuHaGiang044\\NguyenVuHaGiang044\\NguyenVuHaGiang044.NetMVC.csproj",
         "packagesPath": "C:\\Users\\adm\\.nuget\\packages\\",
-        "outputPath": "D:\\NguyenVuHaGiang044\\NguyenVuHaGiang044.NetMVC\\obj\\",
+        "outputPath": "D:\\NguyenVuHaGiang044\\NguyenVuHaGiang044\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adm\\AppData\\Roaming\\NuGet\\NuGet.Config"
